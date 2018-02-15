@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.mightyfrog.android.rxjavamaps.MainActivity">
+
+    <item
+        android:id="@+id/action_map"
+        android:title="@string/action_map"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_flatmap"
+        android:title="@string/action_flatmap"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_concatmap"
+        android:title="@string/action_concatmap"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_switchmap"
+        android:title="@string/action_switchmap"
+        app:showAsAction="never" />
+</menu>

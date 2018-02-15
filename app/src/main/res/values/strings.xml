@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJava Maps Sample</string>
+    <string name="action_map">map</string>
+    <string name="action_flatmap">flatMap</string>
+    <string name="action_concatmap">concatMap</string>
+    <string name="action_switchmap">switchMap</string>
+</resources>
